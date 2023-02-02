@@ -1,6 +1,9 @@
- @media (max-width:1024px){
+@media (max-width:1024px){
+
+
 
 }
+
 @media (max-width: 991px) {
     .text-content{
         width:100%;
@@ -26,11 +29,10 @@
         height: auto;
         padding:3rem 0;
     }
-}
 
-    .review-section .carousel-item .carousel-caption p{
-        padding: 0;
-    }
+
+
+}
 @media (max-width: 767px){
 
     h1{
@@ -46,24 +48,3 @@
     }
 
 }
-    .story-section{
-        height:auto;
-        padding:3rem 0;
-    }
-
-    .review-section .carousel-item{
-        padding:11rem 3.125rem;
-    }
-
-.newsletter{
-    width:75%;
-}
-.newsletter .main-btn{
-    width:100%;
-    margin-top:1rem;
-}
-.footer .footer-link,
-.footer a i{
-    padding:0 0.7rem;
-}
-
